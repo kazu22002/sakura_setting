@@ -18,3 +18,12 @@ sakura editorの設定
 
 * Shift + F1 - F4 文字列操作（大文字、小文字、カタカナ変換）
 * Shift + F12 - 折り返し
+
+
+# 色設定
+
+KeitetsuWorks/Sakura_Monokai　を使用。
+
+https://github.com/KeitetsuWorks/Sakura_Monokai
+
+検索時の色だけ暖色系に変更
